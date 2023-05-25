@@ -34,7 +34,4 @@ https://github.com/KUSITMS-27th-TEAM5/TripGenie-APK/tree/main
 ![Trip-genie](https://github.com/KUSITMS-27th-TEAM5/TripGenie-AOS/assets/108562467/5a1d7305-dde9-4fb2-868e-18d8f2ce85e7)
   
 ## ✨ERD 설계도
-![image (1)](https://github.com/KUSITMS-27th-TEAM5/TripGenie-AOS/assets/108562467/86daf267-0263-4596-af0c-d78ceb2f2f2e)
-=======
-![Slide 16_9 - 1 (4)](https://user-images.githubusercontent.com/108562467/232030862-d151776a-1624-4d36-870f-9ab39ad654fe.png)
- 
+![image (1)](https://github.com/KUSITMS-27th-TEAM5/TripGenie-AOS/assets/108562467/86daf267-0263-4596-af0c-d78ceb2f2f2e) 
