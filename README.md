@@ -13,7 +13,7 @@
 - 여행 티켓 예매  
 - 지니캐시를 사용해 저렴하게 구매  
   
-## 📌Frontend 작업 주소
+## 📌Frontend 작업 주소  
 https://github.com/KUSITMS-27th-TEAM5/SImpleTrip-AOS
   
 ## 📌Backend 작업 주소
